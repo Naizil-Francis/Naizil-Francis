@@ -2,7 +2,7 @@
 
 🎓 **Bachelor of Engineering (CSE - AIML)**  
 📍 Student of Sahyadri College of Engineering and Management  
-🌟 **CGPA:** 9.5  
+🌟 **CGPA:** 9.45  
 📧 **Email:** [naizilfrancis07@gmail.com](mailto:naizilfrancis07@gmail.com)  
 🔗 **LinkedIn:** [Naizil Francis D Costa](https://www.linkedin.com/in/naizil-francis-d-costa)  
 💻 **GitHub:** [Naizil-Francis](https://github.com/Naizil-Francis)
