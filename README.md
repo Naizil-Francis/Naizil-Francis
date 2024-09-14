@@ -9,7 +9,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience as intern
 
 ### CoE-AIML Intern (Oct-Nov 2023)  
 - Worked on face recognition model development using Image Processing and Machine Learning.  
