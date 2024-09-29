@@ -1,8 +1,7 @@
 # Hi, I'm Naizil Francis D Costa 👋
 
 🎓 **Bachelor of Engineering (CSE - AIML)**  
-📍 Student of Sahyadri College of Engineering and Management  
-🌟 **CGPA:** 9.45  
+📍 Student of Sahyadri College of Engineering and Management   
 📧 **Email:** [naizilfrancis07@gmail.com](mailto:naizilfrancis07@gmail.com)  
 🔗 **LinkedIn:** [Naizil Francis D Costa](https://www.linkedin.com/in/naizil-francis-d-costa)  
 💻 **GitHub:** [Naizil-Francis](https://github.com/Naizil-Francis)
@@ -29,8 +28,7 @@
 
 ## 🌱 Areas of Interest
 
-- Machine Learning  
-- Data Analytics  
+- Machine Learning   
 - Digital Image Processing  
 - Natural Language Processing  
 
